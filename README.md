@@ -1,17 +1,8 @@
 # hcm_explorer
 
-A new Flutter project.
+Required: Flutter + Dart
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+B1: Mở source bằng VSCODE
+B2: Vào backend copy .env.example => .env
+B3: Mở cmd tại thư mục hcm_explorer/backend chạy 'dart pub get' => rồi chạy 'dart run bin/server.dart'
+B4: Mở cmd tại thư mục hcm_explorer chạy 'flutter pub get' => rồi chạy 'flutter run -d chrome'
